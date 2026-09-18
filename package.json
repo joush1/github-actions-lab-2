@@ -1,0 +1,27 @@
+{
+  "name": "github-actions-lab-2",
+  "version": "1.0.0",
+  "description": "My second github Action workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joush1/github-actions-lab-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joush1/github-actions-lab-2/issues"
+  },
+  "homepage": "https://github.com/joush1/github-actions-lab-2#readme",
+  "devDependencies": {
+    "jest": "^30.5.1"
+  },
+  "allowScripts": {
+    "@parcel/watcher@2.6.0": true,
+    "unrs-resolver@1.12.2": true
+  }
+}
